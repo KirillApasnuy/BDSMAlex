@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1853f01b-4b1e-4161-99d8-bb5169c8142c" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2U4Y18oEqITJXPKiNeWh0HiqDiL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Kirill/Desktop/визуализация",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2023.2\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1853f01b-4b1e-4161-99d8-bb5169c8142c" name="Changes" comment="" />
+      <created>1692200102413</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1692200102413</updated>
+      <workItem from="1692200103388" duration="4553000" />
+      <workItem from="1692267019418" duration="1532000" />
+      <workItem from="1692271321502" duration="1653000" />
+      <workItem from="1692316682461" duration="2404000" />
+      <workItem from="1692344245769" duration="1766000" />
+      <workItem from="1692360869863" duration="2579000" />
+      <workItem from="1692500652086" duration="1241000" />
+      <workItem from="1692530898306" duration="619000" />
+      <workItem from="1692579497997" duration="1229000" />
+      <workItem from="1692624815546" duration="1857000" />
+      <workItem from="1692695185504" duration="628000" />
+      <workItem from="1692753418423" duration="4735000" />
+      <workItem from="1692849650838" duration="638000" />
+      <workItem from="1692875811419" duration="1867000" />
+      <workItem from="1692931424789" duration="140000" />
+      <workItem from="1692934191828" duration="1007000" />
+      <workItem from="1692953781474" duration="1199000" />
+      <workItem from="1693017197746" duration="3459000" />
+      <workItem from="1693112139642" duration="1924000" />
+      <workItem from="1693219544112" duration="3850000" />
+      <workItem from="1693275613093" duration="37000" />
+      <workItem from="1693275661765" duration="619000" />
+      <workItem from="1693366078722" duration="629000" />
+      <workItem from="1693402245619" duration="623000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
